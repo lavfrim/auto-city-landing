@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# JetBrains / WebStorm
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+.idea/queries/
+.idea/dataSources/
+.idea/dataSources.local.xml
+
+# Optional JetBrains local caches
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries/
+.idea/**/inspectionProfiles/
+
